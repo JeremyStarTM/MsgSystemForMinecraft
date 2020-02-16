@@ -4,4 +4,4 @@
 # ***Minimal requirements***
 Server: **Spigot/Bukkit** | Server Version: **1.12.0 or higher** | Plug-Ins: **PermissionsEx**
 
-# [***Downloads***](http://google.de)
+# [***Downloads***](http://msgsystem-jeremystar.glitch.me/downloads.html)
