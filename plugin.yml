@@ -1,0 +1,15 @@
+name: MsgSystem
+version: 1.0
+main: js.msg.Main
+author: JeremyStar
+
+
+commands:
+   message:
+      aliases: [msg, tell, r]
+      description: Sendet eine Nachricht an einen Spieler/Sends a message to a player
+      usage: /msg <Spieler> <Nachricht>
+   msgregrl:
+      aliases: []
+      description: Laedt die MsgSystem Registrierung neu/Reloads the MsgSystem Registry
+      usage: /msgregrl
