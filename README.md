@@ -1,4 +1,4 @@
-# ***MsgSystemForMinecraft***
+# ***MsgSystem for Minecraft***
 **The free source code of the MsgSystem**
 
 # ***Minimal requirements***
