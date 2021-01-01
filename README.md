@@ -1,3 +1,6 @@
+# ***WARNING***
+This project is old, out-of-date, and archived, so PLEASE DO NOT FORK THIS PROJECT OR DOWNLOAD IT! Thank you.
+
 # ***MsgSystem for Minecraft***
 **The free source code of the MsgSystem**
 
